@@ -1,2 +1,2 @@
-# legal-docs
-Markdown versions of our legal and policy documents
+# Terms
+Markdown versions of Teller's legal and policy documents.
